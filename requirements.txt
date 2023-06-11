@@ -1,0 +1,6 @@
+undetected_chromedriver
+selenium
+bs4
+dataclasses
+
+
